@@ -1,0 +1,7 @@
+.completedTodo {
+  color: darkgray;
+  text-decoration: line-through;
+}
+div{
+  align-items: center;
+}

@@ -1,0 +1,16 @@
+.completedTodo {
+  color: darkgray;
+  text-decoration: line-through;
+  /* border: 2px solid red; */
+}
+ul{
+  margin-bottom: 10px;
+  width: 100%;
+  /* border: 2px solid yellow; */
+}
+fa-icon:hover{
+  cursor: pointer;
+}
+input:hover{
+  cursor: pointer;
+}
