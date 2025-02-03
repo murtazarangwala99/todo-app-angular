@@ -31,7 +31,7 @@ export class TodoService {
       },
       {
         id: '444',
-        title: 'Learn React',
+        title: 'Learn DevOps',
         isCompleted: false,
         date: new Date(),
       },
